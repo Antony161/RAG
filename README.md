@@ -1,4 +1,4 @@
-fi## Retrieval augmented Generation
+## Retrieval augmented Generation
 
 
 ### This repo contains 4 python files 
