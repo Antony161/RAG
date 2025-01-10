@@ -1,1 +1,1 @@
-# RAG
+## Retrieval augmented Generation
